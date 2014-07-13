@@ -1,3 +1,4 @@
+require 'scraperwiki'
 # Subsidized organizations of Brno city
 require 'nokogiri'
 require 'cgi'
